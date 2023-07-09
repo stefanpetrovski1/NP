@@ -1,0 +1,14 @@
+1. Vo Java ne postoi pass by reference, tuku samo pass by value.
+2. Method overloading
+    - compile time
+    - 2 metodi koi imaat isto ime, ist return-type ???, no razlicen broj
+    broj na argumenti ili razlicni argumenti, ili dvete
+3. Od final klasa ne moze da se nasleduva.
+4. Static promenlivite za koi treba da se napravi nekoja
+    presmetka se inicijaliziraat vo tn. static block koj se izvrsuva samo ednas
+
+    static{
+        a=5;
+        b=10;
+    }
+4.1 Drugite static se inicijaliziraat pri deklaracija

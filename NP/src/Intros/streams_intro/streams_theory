@@ -1,0 +1,78 @@
+======================================================
+
+1. Kreiranje na objekt od interface preku lambda izraz
+
+- interfejsot treba da bide funkciski interface
+    - znaci ima samo edna funkcija
+
+Example:
+interface Operation{
+    double execute(double a, double b);
+}
+Operation sum = (a,b) -> a+b;
+
+======================================================
+
+2. Method reference
+
+- pristapuvanje na method od klasa so scope operator ::
+- mnogu korisno za konstruktor
+
+Example:
+namesto: (name,age)-> new Person(name,age)
+moze da iskoristime method reference: Person::new
+
+- mnogu korisno za koga citame podatoci od input pa direktno
+sakame linijata da ja pretvorime vo objekt od nekoja klasa
+    - so pomos na streamovi
+
+======================================================
+
+3. Predicate
+
+- sluzi za definiranje na nekoi uslovi (koi se def preku lambda izraz)
+- ima metod test koj prima eden argument od tip T i vrakja true/false
+- filter
+
+======================================================
+
+4. Function
+
+- se koristi za convertiranje od eden tip vo drug tip
+- ima metod apply koj "pretvora" objekt od tip T i vrakja objekt od tip R
+- map
+
+======================================================
+
+5. Supplier
+
+- ne prima nisto, tuku dava nesto
+- ima metod get koj vrakja T
+
+======================================================
+
+6. Consumer
+
+- se koristi za pecatenje
+- ima metod accept koj prima nesto, a ne vrakja nisto - slicno na void funkcija
+- forEach
+
+======================================================
+
+7. Comparator
+
+- koga sakame da sporeduvame objekti od ista klasa najcesto treba klasata da go
+implementira interfejsot Comparable <T> i vo metodot int compareTo ja definirame
+logikata za sporeduvanje -> sto e i ogranicuvanjeto na ovoj nacin (objektite moze da
+se sporeduvaat samo spored logikata vo compareTo)
+
+- so Comparator moze da se sporeduvaat na povekje nacini
+- vrakja int  ( 0=ednakvi, 1=levoto pogolemo, -1=desnoto pogolemo)
+- pr. Comparator <Person> comp = (p1,p2) -> p1.firstName.compareTo(p2.firstName)
+- comp.reversed()  - go dava obratniot rezultat
+	- se koristi za sortiranje (po default e po rasteski, so reversed -> opagacki)
+
+- vo praksa:
+Comparator <Student> byAgeAndIndexComparator = Comparator.comparing(Student::getAge)
+                                            .thenComparing(Student::getIdx);
+======================================================

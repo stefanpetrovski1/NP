@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3a89737-dfef-4f28-8050-bb87e5a7429f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OdzvDiBPrbXd56hAYswS2bSUUi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/DELL/IdeaProjects/NP_2023_NewStart",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/DELL/IdeaProjects/NP_2023_NewStart/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\IdeaProjects\NP_2023_NewStart\NP" />
+      <recent name="C:\Users\DELL\IdeaProjects\NP_2023_NewStart\src" />
+      <recent name="C:\Users\DELL\IdeaProjects\NP_2023_NewStart" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.testingclass">
+    <configuration name="CourseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabExercises.NPkurs.CourseTest" />
+      <module name="NP_2023_NewStart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LabExercises.NPkurs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlinePaymentsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabExercises.IknowPlakjanja.OnlinePaymentsTest" />
+      <module name="NP_2023_NewStart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LabExercises.IknowPlakjanja.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlinePaymentsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exams.IknowPlakjanja.OnlinePaymentsTest" />
+      <module name="NP_2023_NewStart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exams.IknowPlakjanja.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomExercises.entry1.PhoneBookTest" />
+      <module name="NP_2023_NewStart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RandomExercises.entry1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuizTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LabExercises.Kviz.QuizTest" />
+      <module name="NP_2023_NewStart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LabExercises.Kviz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testingclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testingclass" />
+      <module name="NP_2023_NewStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testingclass" />
+        <item itemvalue="Application.PhoneBookTest" />
+        <item itemvalue="Application.QuizTest" />
+        <item itemvalue="Application.CourseTest" />
+        <item itemvalue="Application.OnlinePaymentsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3a89737-dfef-4f28-8050-bb87e5a7429f" name="Changes" comment="" />
+      <created>1681905477885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681905477885</updated>
+      <workItem from="1681905478637" duration="6884000" />
+      <workItem from="1681940875066" duration="2661000" />
+      <workItem from="1681995980876" duration="3065000" />
+      <workItem from="1682023296425" duration="4898000" />
+      <workItem from="1682203817376" duration="5238000" />
+      <workItem from="1682287040597" duration="1677000" />
+      <workItem from="1682456127029" duration="4042000" />
+      <workItem from="1682703156542" duration="3552000" />
+      <workItem from="1682762647642" duration="9980000" />
+      <workItem from="1682895066045" duration="6864000" />
+      <workItem from="1682974112334" duration="6716000" />
+      <workItem from="1682982579066" duration="1870000" />
+      <workItem from="1683030710879" duration="3406000" />
+      <workItem from="1683650907887" duration="17105000" />
+      <workItem from="1684365177904" duration="812000" />
+      <workItem from="1684408577877" duration="4440000" />
+      <workItem from="1684774119239" duration="1086000" />
+      <workItem from="1684794350575" duration="3483000" />
+      <workItem from="1684880709248" duration="5004000" />
+      <workItem from="1684943664604" duration="6525000" />
+      <workItem from="1684960071527" duration="7979000" />
+      <workItem from="1685055082245" duration="200000" />
+      <workItem from="1685276671279" duration="3433000" />
+      <workItem from="1685357737426" duration="47000" />
+      <workItem from="1685439069170" duration="8727000" />
+      <workItem from="1685554654033" duration="621000" />
+      <workItem from="1685557061323" duration="851000" />
+      <workItem from="1685823784903" duration="649000" />
+      <workItem from="1686136179394" duration="198000" />
+      <workItem from="1686325900393" duration="12204000" />
+      <workItem from="1686384445150" duration="13278000" />
+      <workItem from="1686414280880" duration="879000" />
+      <workItem from="1686419299969" duration="10723000" />
+      <workItem from="1686471229407" duration="10709000" />
+      <workItem from="1686498856580" duration="2705000" />
+      <workItem from="1686503883886" duration="3109000" />
+      <workItem from="1686558233892" duration="7031000" />
+      <workItem from="1687115757780" duration="1220000" />
+      <workItem from="1687172376492" duration="6406000" />
+      <workItem from="1687362976425" duration="19806000" />
+      <workItem from="1687428978538" duration="252000" />
+      <workItem from="1687429540312" duration="1600000" />
+      <workItem from="1687438530144" duration="1412000" />
+      <workItem from="1688384440057" duration="3055000" />
+      <workItem from="1688929041367" duration="2368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NP/src/RandomExercises/Banka/BankTester.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NP/src/RandomExercises/Banka/BankTester.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NP/src/RandomExercises/Banka/BankTester.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NP/src/RandomExercises/Banka/BankTester.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NP/src/RandomExercises/Banka/BankTester.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NP/src/RandomExercises/Banka/BankTester.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NP/src/RandomExercises/Banka/BankTester.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NP/src/RandomExercises/Banka/BankTester.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NP/src/RandomExercises/Banka/BankTester.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NP/src/LabExercises/Rizik1/RiskTester.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NP/src/LabExercises/Rizik1/RiskTester.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/NP/src/LabExercises/Rizik1/RiskTester.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
