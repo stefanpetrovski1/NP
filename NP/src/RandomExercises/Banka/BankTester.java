@@ -174,9 +174,7 @@ class MoneyConverter{
     }
 }
 
-class  test{
 
-        }
 class Account{
     private String name;
     private String balance;
